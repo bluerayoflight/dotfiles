@@ -5,7 +5,7 @@ dotfiles for my main setup </b>
 
 ## dependencies (best for AUR)
 ```
-bspwm sxhkd polybar polybar-spotify-module gpaste-client autorandr lxpolkit emote dunst feh picom-jonaburg-git rofi dmenu networkmanager-dmenu-bluetooth-fix alacritty flameshot nemo playerctl spotifyctl spotify-listener xbacklight
+bspwm sxhkd polybar polybar-spotify-module gpaste autorandr lxpolkit emote dunst feh picom-jonaburg-git rofi dmenu networkmanager-dmenu-bluetoothfix-git alacritty flameshot nemo playerctl spotifyd
 ```
 
 
